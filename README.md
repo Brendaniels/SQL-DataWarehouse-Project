@@ -19,7 +19,11 @@ This project involves:
 The development of a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making with the following specifications:
 
 - Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
-- Data Quality: Cleanse and resolve data quality issues prior to analysis.
+  - The Data Flow Diagram (DFD) depicts how the mapping of data from source systems to the madellion architecture was implemented.
+
+<img width="1389" height="848" alt="Data Flow Diagram (3)" src="https://github.com/user-attachments/assets/a8ba6a73-3606-40b9-8cac-72126ad3edf5" />
+
+- Data Quality: Cleanse and resolve data quality (DQ) issues prior to analysis.
 - Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
 - Scope: Focus on the latest dataset only; historization of data is not required.
 
