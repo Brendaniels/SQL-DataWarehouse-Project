@@ -64,3 +64,10 @@ Analytics & Reporting: Creating SQL-based reports and dashboards for actionable 
       ├── README.md                           # Project overview and instructions
       └── LICENSE                             # License information for the repository
 
+## 🛡 License
+This project is licensed under the MIT License.
+You are free to use, modify, and share this project with proper attribution.
+
+## ☕ Stay Connected
+  - LinkedIn: https: (www.linkedin.com/in/thabang-brendan-kwanaite-1970693a4)
+  - GitHub: https: (www.github.com/Brendaniels)
